@@ -7,7 +7,7 @@
 
 <div id="team-members" class="cf">
 		<h1>Our Team at Franklin</h1>
-	<p>We're small,but mighty.Franklin's Fine Dining has been a family-owned and run business since dirty thirties,and we're proud of it!When you get these three together,you never know what can happen.But you can count on one thing: <strong>The best food you've ever had.Ever</strong></p>
+		<p>We're small,but mighty.Franklin's Fine Dining has been a family-owned and run business since dirty thirties,and we're proud of it!When you get these three together,you never know what can happen.But you can count on one thing: <strong>The best food you've ever had.Ever</strong></p>
 
 	<hr>
 <?php
